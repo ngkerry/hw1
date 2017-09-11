@@ -1,0 +1,13 @@
+Puzzle 3 
+Down 
+Down 
+GetColor
+Save
+Down 
+If steps < 3
+right 
+right
+SetColor
+Right 
+Right 
+Up 
