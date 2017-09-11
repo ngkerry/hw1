@@ -1,0 +1,20 @@
+Puzzle 8 
+If Steps < 8 
+Down 
+Right 
+Right 
+If Steps < 7 
+Up  
+Right 
+Right 
+If Steps < 7 
+Down 
+Right 
+Right 
+If Steps < 7 
+Up 
+Right 
+Right 
+If Steps < 7
+Down 
+Right 
