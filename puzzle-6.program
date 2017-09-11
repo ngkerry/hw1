@@ -1,0 +1,20 @@
+Puzzle 6  
+Right 
+If getColor is red
+Up 
+Up 
+Up 
+Direction = 0 
+Else 
+Down 
+Down 
+Down 
+Direction = 1
+if getColor is red
+left 
+if getColor is blue 
+right 
+if Direction = 0 
+Up 
+Else 
+Down 
