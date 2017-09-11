@@ -1,0 +1,18 @@
+Puzzle 5 
+Right 
+Right 
+GetColor 
+Save 
+If getColor is Blue 
+Down 
+Right 
+Right 
+If getColor is Blue 
+Down 
+Right
+Right
+Else
+Up 
+Right 
+Right
+Right
