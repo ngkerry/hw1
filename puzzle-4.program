@@ -1,0 +1,31 @@
+Puzzle 4
+If steps < 4 
+Down 
+Right
+if getColor is blue 
+save 
+down 
+SetColor  
+Right 
+Right
+If getColor is Green 
+Save 
+Down
+SetColor
+right 
+right
+If getColor is Yellow
+Save 
+Down 
+SetColor 
+Right 
+Right 
+If getColor is Red 
+Save 
+Down 
+SetColor 
+Right 
+Right 
+Up 
+Right 
+Remember Get Color
