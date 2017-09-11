@@ -1,0 +1,26 @@
+Puzzle 7
+Repeat if getColor isn’t Red
+Down
+If getColor is Red
+Save
+Right 
+Right 
+Repeat if getColor isn’t Red
+Up 
+SetColor 
+Right 
+Right 
+Repeat if getColor isn’t Red
+Down
+SetColor 
+Right 
+Right 
+Repeat if getColor isn’t Red 
+Up
+SetColor
+Right 
+Right
+Repeat if getColor isn’t Red
+Down 
+SetColor
+Right 
